@@ -11,5 +11,5 @@ processor*
 !0.orig
 !0/
 *.eMesh
-polyMesh/*
+cavity/constant/polyMesh/*
 *.OpenFOAM
